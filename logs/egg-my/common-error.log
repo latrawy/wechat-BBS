@@ -1,0 +1,351 @@
+2018-09-19 11:15:53,707 ERROR 11644 [-/127.0.0.1/-/6ms GET /news] nodejs.ReferenceError: cex is not defined
+    at NewsController.list (/home/duoyi/桌面/egg-my/app/controller/news.js:7:22)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /home/duoyi/桌面/egg-my/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 11644
+hostname: duoyi
+
+2018-09-19 11:16:43,034 ERROR 11644 [-/127.0.0.1/-/1ms GET /news] nodejs.ReferenceError: cex is not defined
+    at NewsController.list (/home/duoyi/桌面/egg-my/app/controller/news.js:7:22)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /home/duoyi/桌面/egg-my/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 11644
+hostname: duoyi
+
+2018-09-19 11:16:52,687 ERROR 11715 [-/127.0.0.1/-/10ms GET /news] nodejs.ReferenceError: cex is not defined
+    at NewsController.list (/home/duoyi/桌面/egg-my/app/controller/news.js:7:22)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.10.0@egg-core/lib/utils/router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /home/duoyi/桌面/egg-my/node_modules/_koa-router@7.4.0@koa-router/lib/router.js:346:16
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 11715
+hostname: duoyi
+
+2018-09-19 11:17:08,182 ERROR 11734 [-/127.0.0.1/-/5199ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/duoyi/桌面/egg-my/node_modules/_urllib@2.29.1@urllib/lib/urllib.js:818:15)
+    at ontimeout (timers.js:425:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5166,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 11734
+hostname: duoyi
+
+2018-09-19 13:48:54,857 ERROR 13045 [-/127.0.0.1/-/5028ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/duoyi/桌面/egg-my/node_modules/_urllib@2.29.1@urllib/lib/urllib.js:818:15)
+    at ontimeout (timers.js:425:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5016,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 13045
+hostname: duoyi
+
+2018-09-19 13:49:08,994 ERROR 13045 [-/127.0.0.1/-/5006ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/duoyi/桌面/egg-my/node_modules/_urllib@2.29.1@urllib/lib/urllib.js:818:15)
+    at ontimeout (timers.js:425:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5005,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 13045
+hostname: duoyi
+
+2018-10-09 11:55:08,062 ERROR 12180 [-/127.0.0.1/-/5160ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/duoyi/桌面/egg-my/node_modules/_urllib@2.29.1@urllib/lib/urllib.js:818:15)
+    at ontimeout (timers.js:425:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5157,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 12180
+hostname: duoyi
+
+2019-03-06 17:21:38,743 ERROR 11516 [-/127.0.0.1/-/5017ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET http://www.baidu1.com -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/home/duoyi/桌面/egg-my/node_modules/_urllib@2.29.1@urllib/lib/urllib.js:818:15)
+    at ontimeout (timers.js:425:11)
+    at tryOnTimeout (timers.js:289:5)
+    at listOnTimeout (timers.js:252:5)
+    at Timer.processTimers (timers.js:212:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5005,"keepAliveSocket":false,"requestUrls":["http://www.baidu1.com/"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 11516
+hostname: duoyi
+
+2019-11-14 17:33:20,478 ERROR 16670 [-/127.0.0.1/-/12ms GET /messages?id=1] nodejs.TypeError: Cannot read property 'param' of undefined
+    at MessagesController.getMessages (/home/duoyi/桌面/egg-my/app/controller/messages.js:12:21)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at authCheck (/home/duoyi/桌面/egg-my/app/middleware/auth.js:6:11)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+
+pid: 16670
+hostname: duoyi
+
+2019-11-14 17:33:33,002 ERROR 16692 [-/127.0.0.1/-/13ms GET /messages?id=1] nodejs.TypeError: Cannot read property 'params' of undefined
+    at MessagesController.getMessages (/home/duoyi/桌面/egg-my/app/controller/messages.js:12:21)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at authCheck (/home/duoyi/桌面/egg-my/app/middleware/auth.js:6:11)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+
+pid: 16692
+hostname: duoyi
+
+2019-11-14 17:33:47,664 ERROR 16704 [-/127.0.0.1/-/18ms GET /messages?id=1] nodejs.TypeError: Cannot read property 'params' of undefined
+    at MessagesController.getMessages (/home/duoyi/桌面/egg-my/app/controller/messages.js:10:31)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at authCheck (/home/duoyi/桌面/egg-my/app/middleware/auth.js:6:11)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+
+pid: 16704
+hostname: duoyi
+
+2019-11-14 17:34:05,157 ERROR 16716 [-/127.0.0.1/-/14ms GET /messages?id=1] nodejs.TypeError: Cannot read property 'params' of undefined
+    at MessagesController.getMessages (/home/duoyi/桌面/egg-my/app/controller/messages.js:14:21)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at authCheck (/home/duoyi/桌面/egg-my/app/middleware/auth.js:6:11)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+
+pid: 16716
+hostname: duoyi
+
+2019-11-14 17:34:12,825 ERROR 16730 [-/127.0.0.1/-/15ms GET /messages?id=1] nodejs.TypeError: Cannot read property 'params' of undefined
+    at MessagesController.getMessages (/home/duoyi/桌面/egg-my/app/controller/messages.js:14:21)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at authCheck (/home/duoyi/桌面/egg-my/app/middleware/auth.js:6:11)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+
+pid: 16730
+hostname: duoyi
+
+2019-11-14 17:34:24,890 ERROR 16743 [-/127.0.0.1/-/11ms GET /messages?id=1] nodejs.TypeError: Cannot read property 'params' of undefined
+    at MessagesController.getMessages (/home/duoyi/桌面/egg-my/app/controller/messages.js:14:21)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at authCheck (/home/duoyi/桌面/egg-my/app/middleware/auth.js:6:11)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+
+pid: 16743
+hostname: duoyi
+
+2019-11-14 17:34:32,811 ERROR 16758 [-/127.0.0.1/-/18ms GET /messages?id=1] nodejs.TypeError: Cannot read property 'params' of undefined
+    at MessagesController.getMessages (/home/duoyi/桌面/egg-my/app/controller/messages.js:14:21)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at authCheck (/home/duoyi/桌面/egg-my/app/middleware/auth.js:6:11)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+
+pid: 16758
+hostname: duoyi
+
+2019-11-14 18:03:54,825 ERROR 17255 [-/127.0.0.1/-/5ms GET /messages?page=2&size=10] nodejs.TypeError: Cannot read property 'getMessages' of undefined
+    at MessagesController.getMessages (/home/duoyi/桌面/egg-my/app/controller/messages.js:20:41)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/home/duoyi/桌面/egg-my/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at authCheck (/home/duoyi/桌面/egg-my/app/middleware/auth.js:6:11)
+    at dispatch (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/home/duoyi/桌面/egg-my/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+
+pid: 17255
+hostname: duoyi
+
+2019-11-14 20:57:02,285 ERROR 20788 [-/127.0.0.1/-/0ms GET /] nodejs.SequelizeAccessDeniedError: Access denied for user 'root'@'localhost' (using password: NO)
+    at Promise.tap.then.catch.err (/home/duoyi/桌面/egg-my/node_modules/_sequelize@5.21.2@sequelize/lib/dialects/mysql/connection-manager.js:125:19)
+    at tryCatcher (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:93:12)
+    at _drainQueue (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:15:14)
+From previous event:
+    at Promise.longStackTracesCaptureStackTrace [as _captureStackTrace] (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/debuggability.js:509:19)
+    at Function.Promise.attempt.Promise.try (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/method.js:29:9)
+    at Sequelize.query (/home/duoyi/桌面/egg-my/node_modules/_sequelize@5.21.2@sequelize/lib/sequelize.js:580:23)
+    at Sequelize.authenticate (/home/duoyi/桌面/egg-my/node_modules/_sequelize@5.21.2@sequelize/lib/sequelize.js:892:17)
+    at authenticate (/home/duoyi/桌面/egg-my/node_modules/_egg-sequelize@5.2.0@egg-sequelize/lib/loader.js:134:22)
+    at Promise.all.databases.map.database (/home/duoyi/桌面/egg-my/node_modules/_egg-sequelize@5.2.0@egg-sequelize/lib/loader.js:40:49)
+    at Array.map (<anonymous>)
+    at app.beforeStart (/home/duoyi/桌面/egg-my/node_modules/_egg-sequelize@5.2.0@egg-sequelize/lib/loader.js:40:33)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:42)
+    at process.nextTick (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/lifecycle.js:262:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:745:11)
+    at startup (internal/bootstrap/node.js:279:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:696:3)
+name: "SequelizeAccessDeniedError"
+parent: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: NO)"}
+original: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: NO)"}
+pid: 20788
+hostname: duoyi
+
+2019-11-14 20:57:03,205 ERROR 20806 [-/127.0.0.1/-/0ms GET /] nodejs.SequelizeAccessDeniedError: Access denied for user 'root'@'localhost' (using password: NO)
+    at Promise.tap.then.catch.err (/home/duoyi/桌面/egg-my/node_modules/_sequelize@5.21.2@sequelize/lib/dialects/mysql/connection-manager.js:125:19)
+    at tryCatcher (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:93:12)
+    at _drainQueue (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:15:14)
+From previous event:
+    at Promise.longStackTracesCaptureStackTrace [as _captureStackTrace] (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/debuggability.js:509:19)
+    at Function.Promise.attempt.Promise.try (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/method.js:29:9)
+    at Sequelize.query (/home/duoyi/桌面/egg-my/node_modules/_sequelize@5.21.2@sequelize/lib/sequelize.js:580:23)
+    at Sequelize.authenticate (/home/duoyi/桌面/egg-my/node_modules/_sequelize@5.21.2@sequelize/lib/sequelize.js:892:17)
+    at authenticate (/home/duoyi/桌面/egg-my/node_modules/_egg-sequelize@5.2.0@egg-sequelize/lib/loader.js:134:22)
+    at Promise.all.databases.map.database (/home/duoyi/桌面/egg-my/node_modules/_egg-sequelize@5.2.0@egg-sequelize/lib/loader.js:40:49)
+    at Array.map (<anonymous>)
+    at app.beforeStart (/home/duoyi/桌面/egg-my/node_modules/_egg-sequelize@5.2.0@egg-sequelize/lib/loader.js:40:33)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:42)
+    at process.nextTick (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/lifecycle.js:262:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:745:11)
+    at startup (internal/bootstrap/node.js:279:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:696:3)
+name: "SequelizeAccessDeniedError"
+parent: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: NO)"}
+original: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: NO)"}
+pid: 20806
+hostname: duoyi
+
+2019-11-14 20:57:34,214 ERROR 20822 [-/127.0.0.1/-/1ms GET /] nodejs.SequelizeAccessDeniedError: Access denied for user 'root'@'localhost' (using password: NO)
+    at Promise.tap.then.catch.err (/home/duoyi/桌面/egg-my/node_modules/_sequelize@5.21.2@sequelize/lib/dialects/mysql/connection-manager.js:125:19)
+    at tryCatcher (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/promise.js:725:18)
+    at _drainQueueStep (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:93:12)
+    at _drainQueue (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/async.js:15:14)
+From previous event:
+    at Promise.longStackTracesCaptureStackTrace [as _captureStackTrace] (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/debuggability.js:509:19)
+    at Function.Promise.attempt.Promise.try (/home/duoyi/桌面/egg-my/node_modules/_bluebird@3.7.1@bluebird/js/release/method.js:29:9)
+    at Sequelize.query (/home/duoyi/桌面/egg-my/node_modules/_sequelize@5.21.2@sequelize/lib/sequelize.js:580:23)
+    at Sequelize.authenticate (/home/duoyi/桌面/egg-my/node_modules/_sequelize@5.21.2@sequelize/lib/sequelize.js:892:17)
+    at authenticate (/home/duoyi/桌面/egg-my/node_modules/_egg-sequelize@5.2.0@egg-sequelize/lib/loader.js:134:22)
+    at Promise.all.databases.map.database (/home/duoyi/桌面/egg-my/node_modules/_egg-sequelize@5.2.0@egg-sequelize/lib/loader.js:40:49)
+    at Array.map (<anonymous>)
+    at app.beforeStart (/home/duoyi/桌面/egg-my/node_modules/_egg-sequelize@5.2.0@egg-sequelize/lib/loader.js:40:33)
+    at Object.callFn (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:42)
+    at process.nextTick (/home/duoyi/桌面/egg-my/node_modules/_egg-core@4.17.3@egg-core/lib/lifecycle.js:262:13)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:745:11)
+    at startup (internal/bootstrap/node.js:279:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:696:3)
+name: "SequelizeAccessDeniedError"
+parent: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: NO)"}
+original: {"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","sqlMessage":"Access denied for user 'root'@'localhost' (using password: NO)"}
+pid: 20822
+hostname: duoyi
+

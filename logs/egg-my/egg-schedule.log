@@ -1,0 +1,159 @@
+2018-09-18 20:56:00,562 INFO 26105 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-19 00:00:00.000
+2018-09-18 20:56:00,562 INFO 26105 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-19 00:00:01.000
+2018-09-19 11:00:08,270 INFO 10511 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-20 00:00:00.000
+2018-09-19 11:00:08,272 INFO 10511 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-20 00:00:01.000
+2018-09-19 11:15:51,845 INFO 11632 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-20 00:00:00.000
+2018-09-19 11:15:51,846 INFO 11632 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-20 00:00:01.000
+2018-09-19 11:16:50,933 INFO 11703 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-20 00:00:00.000
+2018-09-19 11:16:50,933 INFO 11703 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-20 00:00:01.000
+2018-09-19 13:49:04,778 INFO 13096 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-09-20 00:00:00.000
+2018-09-19 13:49:04,778 INFO 13096 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-09-20 00:00:01.000
+2018-10-09 11:54:40,984 INFO 12168 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-10-10 00:00:00.000
+2018-10-09 11:54:40,985 INFO 12168 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-10-10 00:00:01.000
+2018-12-17 15:55:58,345 INFO 14292 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-12-18 00:00:00.000
+2018-12-17 15:55:58,346 INFO 14292 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-12-18 00:00:01.000
+2019-03-06 17:14:35,582 INFO 11114 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2019-03-07 00:00:00.000
+2019-03-06 17:14:35,583 INFO 11114 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2019-03-07 00:00:01.000
+2019-03-06 17:18:15,624 INFO 11326 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/clean_log.js next time will execute at 2019-03-07 00:00:00.000
+2019-03-06 17:18:15,625 INFO 11326 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2019-03-07 00:00:01.000
+2019-11-14 16:31:17,947 INFO 12728 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 43122057ms at 2019-11-15 04:30:00.004
+2019-11-14 16:31:17,948 INFO 12728 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 26922053ms at 2019-11-15 00:00:00.001
+2019-11-14 16:31:17,948 INFO 12728 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26923052ms at 2019-11-15 00:00:01.000
+2019-11-14 16:31:17,267 INFO 12739 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 16:31:17,267 INFO 12739 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 16:31:17,267 INFO 12739 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 16:39:02,059 INFO 13276 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 16:39:02,059 INFO 13276 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 16:39:02,059 INFO 13276 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 16:39:02,754 INFO 13264 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42657252ms at 2019-11-15 04:30:00.006
+2019-11-14 16:39:02,755 INFO 13264 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 26457246ms at 2019-11-15 00:00:00.001
+2019-11-14 16:39:02,757 INFO 13264 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26458245ms at 2019-11-15 00:00:01.002
+2019-11-14 16:40:18,496 INFO 13421 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42581507ms at 2019-11-15 04:30:00.003
+2019-11-14 16:40:18,497 INFO 13421 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 26381503ms at 2019-11-15 00:00:00.000
+2019-11-14 16:40:18,497 INFO 13421 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26382503ms at 2019-11-15 00:00:01.000
+2019-11-14 16:40:18,434 INFO 13432 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 16:40:18,434 INFO 13432 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 16:40:18,434 INFO 13432 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 16:40:57,724 INFO 13449 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 16:40:57,724 INFO 13449 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 16:40:57,724 INFO 13449 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 16:41:04,869 INFO 13490 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42535134ms at 2019-11-15 04:30:00.003
+2019-11-14 16:41:04,869 INFO 13490 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 26335131ms at 2019-11-15 00:00:00.000
+2019-11-14 16:41:04,869 INFO 13490 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 26336131ms at 2019-11-15 00:00:01.000
+2019-11-14 16:41:04,803 INFO 13501 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 16:41:04,803 INFO 13501 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 16:41:04,803 INFO 13501 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 16:56:46,469 INFO 13947 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 16:56:46,469 INFO 13947 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 16:56:46,469 INFO 13947 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 16:56:47,240 INFO 13936 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 41592764ms at 2019-11-15 04:30:00.004
+2019-11-14 16:56:47,240 INFO 13936 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 25392760ms at 2019-11-15 00:00:00.000
+2019-11-14 16:56:47,240 INFO 13936 [Timer] /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25393760ms at 2019-11-15 00:00:01.000
+2019-11-14 16:57:52,337 INFO 13985 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 16:57:52,337 INFO 13985 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 16:57:52,337 INFO 13985 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 16:58:25,866 INFO 14002 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 16:58:25,866 INFO 14002 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 16:58:25,866 INFO 14002 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:09:20,780 INFO 14516 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:09:20,781 INFO 14516 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:09:20,781 INFO 14516 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:09:33,212 INFO 14582 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:09:33,212 INFO 14582 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:09:33,212 INFO 14582 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:09:40,499 INFO 14604 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:09:40,499 INFO 14604 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:09:40,499 INFO 14604 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:09:47,983 INFO 14640 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:09:47,983 INFO 14640 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:09:47,983 INFO 14640 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:09:59,154 INFO 14683 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:09:59,154 INFO 14683 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:09:59,154 INFO 14683 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:21:05,334 INFO 16332 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:21:05,334 INFO 16332 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:21:05,334 INFO 16332 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:23:07,142 INFO 16444 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:23:07,142 INFO 16444 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:23:07,142 INFO 16444 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:25:29,386 INFO 16497 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:25:29,386 INFO 16497 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:25:29,386 INFO 16497 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:25:37,776 INFO 16510 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:25:37,776 INFO 16510 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:25:37,776 INFO 16510 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:26:01,746 INFO 16522 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:26:01,746 INFO 16522 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:26:01,746 INFO 16522 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:28:23,391 INFO 16556 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:28:23,391 INFO 16556 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:28:23,391 INFO 16556 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:29:37,851 INFO 16574 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:29:37,851 INFO 16574 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:29:37,851 INFO 16574 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:33:14,322 INFO 16670 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:33:14,323 INFO 16670 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:33:14,323 INFO 16670 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:33:29,281 INFO 16692 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:33:29,281 INFO 16692 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:33:29,281 INFO 16692 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:33:41,718 INFO 16704 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:33:41,718 INFO 16704 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:33:41,718 INFO 16704 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:34:02,450 INFO 16716 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:34:02,450 INFO 16716 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:34:02,450 INFO 16716 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:34:10,730 INFO 16730 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:34:10,730 INFO 16730 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:34:10,730 INFO 16730 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:34:22,066 INFO 16743 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:34:22,066 INFO 16743 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:34:22,066 INFO 16743 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:34:29,695 INFO 16758 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:34:29,695 INFO 16758 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:34:29,695 INFO 16758 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:35:27,467 INFO 16772 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:35:27,467 INFO 16772 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:35:27,467 INFO 16772 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:36:05,482 INFO 16793 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:36:05,482 INFO 16793 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:36:05,482 INFO 16793 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:36:12,225 INFO 16808 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:36:12,225 INFO 16808 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:36:12,225 INFO 16808 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:37:27,639 INFO 16864 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:37:27,639 INFO 16864 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:37:27,639 INFO 16864 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:38:37,779 INFO 16888 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:38:37,779 INFO 16888 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:38:37,779 INFO 16888 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:52:00,678 INFO 17044 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:52:00,678 INFO 17044 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:52:00,678 INFO 17044 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:52:01,389 INFO 17056 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:52:01,389 INFO 17056 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:52:01,389 INFO 17056 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:59:01,824 INFO 17172 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:59:01,824 INFO 17172 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:59:01,824 INFO 17172 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:59:20,889 INFO 17194 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:59:20,889 INFO 17194 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:59:20,889 INFO 17194 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 17:59:32,908 INFO 17210 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 17:59:32,908 INFO 17210 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 17:59:32,908 INFO 17210 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 18:03:31,588 INFO 17255 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 18:03:31,588 INFO 17255 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 18:03:31,588 INFO 17255 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 18:05:36,996 INFO 17296 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 18:05:36,997 INFO 17296 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 18:05:36,997 INFO 17296 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 20:56:57,098 INFO 20788 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 20:56:57,098 INFO 20788 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 20:56:57,098 INFO 20788 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 20:57:02,930 INFO 20806 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 20:57:02,930 INFO 20806 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 20:57:02,930 INFO 20806 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-11-14 20:57:33,751 INFO 20822 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-multipart@2.9.1@egg-multipart/app/schedule/clean_tmpdir.js
+2019-11-14 20:57:33,751 INFO 20822 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-11-14 20:57:33,752 INFO 20822 [egg-schedule]: register schedule /home/duoyi/桌面/egg-my/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
