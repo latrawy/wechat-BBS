@@ -8,15 +8,13 @@ class MessagesController extends Controller {
   async getMessages () {
     const { ctx, service } = this;
     const query = ctx.request.query;
-    query.size = +query.size;
-    query.page = +query.page;
     ctx.validate({
-      size: { type: 'int', require: true },
-      page: { type: 'int', require: true },
+      page: { type: 'int?', require: false, default: 1 },
+      size: { type: 'int?', require: false, default: 10 },
     }, query);
     const rets = await service.messages.getMessages();
     const start = (query.page - 1) * query.size;
-    const end = query.start + query.size
+    const end = start + query.size;
     ctx.body = { allData: rets.slice(start, end), count: rets.length };
   }
 }
