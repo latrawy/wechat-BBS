@@ -9,6 +9,10 @@ class MessagesService extends Service {
   async getMessages() {
     return await this.MessagesModel.findAll({ raw: true });
   }
+
+  async addMessages() {
+    return await this.MessagesModel.findAll({ raw: true });
+  }
 }
 
 module.exports = MessagesService;

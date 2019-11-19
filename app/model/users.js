@@ -36,13 +36,13 @@ module.exports = app => {
       type: STRING(128),
       allowNull: true,
     },
-    ubalance: {
-      field: 'ubalance',
-      type: INTEGER,
-      allowNull: true,
-    },
     uavatar: {
       field: 'uavatar',
+      type: STRING(256),
+      allowNull: true,
+    },
+    profile: {
+      field: 'profile',
       type: STRING(256),
       allowNull: true,
     },

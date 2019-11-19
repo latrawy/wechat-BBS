@@ -31,6 +31,11 @@ module.exports = app => {
       type: INTEGER,
       allowNull: false,
     },
+    type: {
+      field: 'type',
+      type: INTEGER,
+      allowNull: false,
+    },
     createTime: {
       field: 'create_time',
       type: DATE,
