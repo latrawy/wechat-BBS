@@ -11,8 +11,13 @@ module.exports = app => {
       autoIncrement: true,
       allowNull: false,
     },
-    uid: {
-      field: 'uid',
+    openId: {
+      field: 'open_id',
+      type: STRING(128),
+      allowNull: false,
+    },
+    unionId: {
+      field: 'union_id',
       type: STRING(128),
       allowNull: true,
     },

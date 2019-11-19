@@ -15,7 +15,7 @@ class MessagesController extends Controller {
     const rets = await service.messages.getMessages();
     const start = (query.page - 1) * query.size;
     const end = start + query.size;
-    ctx.body = { allData: rets.slice(start, end), count: rets.length };
+    ctx.body = { code: 0, message: { allData: rets.slice(start, end), count: rets.length } };
   }
 }
 

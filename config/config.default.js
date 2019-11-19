@@ -21,6 +21,10 @@ module.exports = appInfo => {
     password: '',
   };
 
+  config.session = {
+    maxAge: 5 * 60 * 1000,
+  };
+
   config.validate = {   // 配置参数校验器，基于parameter
     convert: true,    // 对参数可以使用convertType规则进行类型转换
     // validateRoot: false,   // 限制被验证值必须是一个对象。

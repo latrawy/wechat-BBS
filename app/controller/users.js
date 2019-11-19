@@ -10,16 +10,15 @@ class UsersController extends Controller {
     const query = ctx.request.query;
     ctx.validate({
       code: { type: 'string', require: true },
-      avatarUrl: { type: 'string', require: true, allowEmpty: true },
-      city: { type: 'string', require: true, allowEmpty: true },
-      country: { type: 'string', require: true, allowEmpty: true },
-      gender: { type: 'string', require: true },
-      language: { type: 'string', require: true, allowEmpty: true },
-      nickName: { type: 'string', require: true, allowEmpty: true },
-      province: { type: 'string', require: true, allowEmpty: true },
+      encryptedData: { type: 'string', require: true },
+      iv: { type: 'string', require: true },
     }, query);
-    const rets = await service.users.checkLogin(query);
-    ctx.body = { rets };
+    const rets = await service.users.login(query);
+    if (rets.message) {
+      ctx.body = rets;
+    } else {
+      ctx.body = { code: 0, message: { skey: rets } };
+    }
   }
 }
 
