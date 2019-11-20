@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = app => {
-  const { STRING, INTEGER, TEXT, DATE } = app.Sequelize;
+  const { STRING, INTEGER, TEXT, DATE, NOW } = app.Sequelize;
 
   const Messages = app.model.define('Messages', {
     mid: {
@@ -24,11 +24,12 @@ module.exports = app => {
     content: {
       field: 'content',
       type: TEXT,
-      allowNull: true,
+      allowNull: false,
     },
     commentNum: {
       field: 'comment_num',
       type: INTEGER,
+      defaultValue: 0,
       allowNull: false,
     },
     type: {
@@ -39,16 +40,19 @@ module.exports = app => {
     createTime: {
       field: 'create_time',
       type: DATE,
+      defaultValue: NOW,
       allowNull: false,
     },
     updateTime: {
       field: 'update_time',
       type: DATE,
+      defaultValue: NOW,
       allowNull: false,
     },
     isDel: {
       field: 'is_del',
       type: INTEGER,
+      defaultValue: 0,
       allowNull: false,
     },
   }, {

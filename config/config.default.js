@@ -1,9 +1,13 @@
 'use strict';
 
+const enums = require('./enums');
+
 module.exports = appInfo => {
   const config = {};
 
   config.keys = '23141234';
+
+  config.enums = enums;
 
   config.view = {
     defaultViewEngine: 'nunjucks',
@@ -14,7 +18,7 @@ module.exports = appInfo => {
 
   config.sequelize = {
     dialect: 'mysql',
-    host: '127.0.0.1',
+    host: '',
     port: 3306,
     database: 'db_egg_bbs',
     username: 'root',
@@ -33,6 +37,10 @@ module.exports = appInfo => {
   config.appConfig = {
     appid: '',
     secret: '',
+  };
+
+  config.security = {
+    csrf: false,
   };
 
   return config;
